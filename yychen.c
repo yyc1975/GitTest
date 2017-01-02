@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-void main()
+int yychen(int a, int b)
 {
     int test1;
-    test1 = 10;
+    test1 = a + b;
+
+    return test1;
 }
