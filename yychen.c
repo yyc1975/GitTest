@@ -2,6 +2,6 @@
 
 void main()
 {
-    int test;
-    test = 10;
+    int test1;
+    test1 = 10;
 }
